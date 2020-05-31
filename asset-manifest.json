@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ZinEdu-Project/static/css/main.96a7778b.chunk.css",
-    "main.js": "/ZinEdu-Project/static/js/main.3615ec51.chunk.js",
-    "main.js.map": "/ZinEdu-Project/static/js/main.3615ec51.chunk.js.map",
+    "main.js": "/ZinEdu-Project/static/js/main.f45fb65d.chunk.js",
+    "main.js.map": "/ZinEdu-Project/static/js/main.f45fb65d.chunk.js.map",
     "runtime-main.js": "/ZinEdu-Project/static/js/runtime-main.23a8db42.js",
     "runtime-main.js.map": "/ZinEdu-Project/static/js/runtime-main.23a8db42.js.map",
     "static/css/2.829c9cb5.chunk.css": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css",
     "static/js/2.98470d60.chunk.js": "/ZinEdu-Project/static/js/2.98470d60.chunk.js",
     "static/js/2.98470d60.chunk.js.map": "/ZinEdu-Project/static/js/2.98470d60.chunk.js.map",
     "index.html": "/ZinEdu-Project/index.html",
-    "precache-manifest.ee4378b2919c2e71e5ffcd097afe772f.js": "/ZinEdu-Project/precache-manifest.ee4378b2919c2e71e5ffcd097afe772f.js",
+    "precache-manifest.e91b08f4c749174f1b931d5585ab42c8.js": "/ZinEdu-Project/precache-manifest.e91b08f4c749174f1b931d5585ab42c8.js",
     "service-worker.js": "/ZinEdu-Project/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.96a7778b.chunk.css.map": "/ZinEdu-Project/static/css/main.96a7778b.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.98470d60.chunk.js",
     "static/css/main.96a7778b.chunk.css",
-    "static/js/main.3615ec51.chunk.js"
+    "static/js/main.f45fb65d.chunk.js"
   ]
 }

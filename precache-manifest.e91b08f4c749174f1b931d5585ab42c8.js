@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3d2dbc3686991b7bc62c6fe8b079533",
+    "revision": "2dd24949fc2cbdeae725a13693eb373a",
     "url": "/ZinEdu-Project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "d9e839f1072e94ddc381",
+    "revision": "678df7863fc7413f9a24",
     "url": "/ZinEdu-Project/static/css/main.96a7778b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ZinEdu-Project/static/js/2.98470d60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9e839f1072e94ddc381",
-    "url": "/ZinEdu-Project/static/js/main.3615ec51.chunk.js"
+    "revision": "678df7863fc7413f9a24",
+    "url": "/ZinEdu-Project/static/js/main.f45fb65d.chunk.js"
   },
   {
     "revision": "91bc6492a852745c24d2",
