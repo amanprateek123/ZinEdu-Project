@@ -1,8 +1,8 @@
-{	
+{
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://amanprateek123.github.io/ZinEdu-Project",
+  "homepage": "https://amanprateek123.github.io/ZinEdu-Project",
   "dependencies": {
     "@material-ui/core": "^4.10.0",
     "@material-ui/icons": "^4.9.1",
@@ -20,7 +20,7 @@
     "reactstrap": "^8.4.1"
   },
   "scripts": {
-  	"predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
