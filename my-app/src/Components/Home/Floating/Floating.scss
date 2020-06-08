@@ -1,0 +1,14 @@
+.float{
+    position:fixed;
+    right:20px;
+    top:180px;
+    z-index:3;
+}
+@media only screen and (max-width: 600px){
+    .float{
+        position: relative;
+        float: right;
+        right: 8px;
+        top: 10px;
+    }
+}

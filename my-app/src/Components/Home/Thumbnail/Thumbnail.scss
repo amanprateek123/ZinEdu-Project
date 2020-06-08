@@ -68,11 +68,13 @@
 .frame_detail{
     width: 40%;
     float: right;
-    margin-top: -38%;
+    margin-top: -400px;
 
     h1{
+        padding-left: 50px;
+        padding-bottom: 7%;
         color: white;
-        font-size: 40px;
+        font-size: 35px;
         font-family: 'Bebas Neue', cursive;
     }
     p{
@@ -99,7 +101,7 @@
     
         .frame{
             margin-top: -50px;
-            margin-left: 40px;
+            margin-left: 60px;
             width: 250px;
             height:  250px;    
             .frame_bg{
@@ -112,14 +114,14 @@
     .circle1{
         height:15px;
         width:15px;
-        top: -240px;
+        top: -250px;
         left: 220px;
     }
     .circle2{
         height:15px;
         width:15px;
         top: -120px;
-        left: 278px;
+        left: 300px;
     }
     .circle3{
         height:15px;
@@ -128,21 +130,69 @@
         left: 158px;
     }
     .frame_detail{
-       margin: auto;
        width: 90%;
-        margin: auto;
-    
+       position: relative;
+       left: -30px;
+       top: 380px;
         h1{
             font-size: 20px;
             font-family: 'Bebas Neue', cursive;
         }
         p{
             font-size: 25px;
-            text-align: right;
-            margin-top: 30px;
-            margin-right: 25px;
+            text-align: center;
+            margin-top: 0px;
+            margin-right: 0px;
             font-weight: lighter;
         }
     }
     
+}
+@media only screen and (max-width: 1300px) and (min-width:700px){
+    .thumb_bg{
+        height: 270px;
+        width: 100%;
+      
+          .frame{
+              margin-top: -4%;
+              margin-left: 100px;
+              width: 350px;
+              height:  350px;    
+              .frame_bg{
+                  border-radius: 100%;
+                  width: 300px;
+                  height: 300px;
+              }
+          }
+      }
+      .frame_detail{
+        margin: auto;
+        width: 50%;
+         margin: auto;
+         margin-top: -300px;
+     
+         h1{
+             font-size: 25px;
+             font-family: 'Bebas Neue', cursive;
+         }
+         p{
+             font-size: 35px;
+                text-align: right;
+             font-weight: lighter;
+         }
+     }
+     .circle1{
+        
+        top: -360px;
+        left: 280px;
+    }
+    .circle2{
+        
+        top: -130px;
+        left: 420px;
+    }
+    .circle3{
+        top: -78px;
+        left: 163px;
+    }
 }

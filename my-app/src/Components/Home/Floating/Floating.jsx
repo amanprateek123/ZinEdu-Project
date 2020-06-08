@@ -6,6 +6,7 @@ import YouTubeIcon from '@material-ui/icons/YouTube';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import {Fab} from '@material-ui/core'
 import { Add as AddIcon } from '@material-ui/icons';
+import './Floating.scss'
 
 export default class Floating extends Component {
     state={
@@ -20,7 +21,7 @@ export default class Floating extends Component {
         if(this.state.visible){
              social = (
                 <div style={{display:'flex',flexDirection:'column',color:'white',position:'relative',right:'-12px',top:'10px',transition:'2s ease-in'}}>
-                <FacebookIcon fontSize="large" />
+               <FacebookIcon fontSize="large" />
                 <InstagramIcon fontSize="large"/>
                 <TwitterIcon fontSize="large"/>
                 <YouTubeIcon fontSize="large"/>
@@ -29,7 +30,7 @@ export default class Floating extends Component {
             )
         }
         return (
-            <div style={{float:'right',marginRight:'1%',marginTop:'1%',zIndex:'0'}} onMouseEnter={this.toggleHidden} onMouseLeave={this.toggleHidden}>
+            <div className="float" onMouseEnter={this.toggleHidden} onMouseLeave={this.toggleHidden}>
                 <Fab color="inherit" aria-label="add" style={{backgroundColor:'rgb(255,81,81)',color:'white'}} >
                      <AddIcon />
                 </Fab>   

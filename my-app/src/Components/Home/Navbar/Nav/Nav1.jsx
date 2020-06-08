@@ -24,7 +24,7 @@ const Nav1 = (props) => {
         <NavbarToggler onClick={toggleNavbar} className="mr-2" />
           <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
-            <Navres/>
+            <Navres openModal={props.openModal}/>
           </Nav>
           <Nav className="mr-auto" navbar>
                 <div className='navitem'>
@@ -34,8 +34,8 @@ const Nav1 = (props) => {
           </Nav>
         </Collapse>
           
-          <div className="nav_text">
-            <NavLink to="/login" className="nav_subtext">
+          <div className="nav_text" onClick={props.openModal}>
+            <NavLink to="#" className="nav_subtext">
             LOGIN
             </NavLink>
           </div>   

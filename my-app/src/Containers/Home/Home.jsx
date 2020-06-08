@@ -11,7 +11,7 @@ export default class Home extends Component {
         return (
             <React.Fragment>
                 <div style={{backgroundColor:"#f3f3f3"}}>
-                <Exclusive/>
+                <Exclusive modal={this.props.modal}/>
                 <Enroll/>
                 <Partner/>
                 <Stats/>

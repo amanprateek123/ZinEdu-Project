@@ -1,7 +1,7 @@
 import React from 'react'
 import './Navres.scss'
 
-export default function Navres() {
+export default function Navres(props) {
     return (
         <div className="navres">
             <ul className="unorder3">
@@ -10,7 +10,7 @@ export default function Navres() {
                 <li className="nav_list1">TEAM</li>
                 <li className="nav_list1">BLOGS</li>
                 <li className="nav_list1">CAREERS</li>
-                <li className="nav_list1">LOGIN</li>
+                <li className="nav_list1" onClick={props.openModal}>LOGIN</li>
             </ul>
         </div>
     )

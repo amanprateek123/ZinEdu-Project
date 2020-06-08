@@ -62,13 +62,12 @@
     }
     ul{
         list-style: none;
-        float: right;
+        margin: auto;;
         margin-top: 2.5%;
-        margin-right: 28%;
         width: 60%;
         li{
             font-size: 25px;
-            text-align: right;
+            text-align: center;
             padding: 10px;
         }
     }
@@ -91,7 +90,7 @@
     .footer{
         height: 830px;
         width: 100%;
-        margin-top: -18px;
+        margin-top: -19px;
     }
     .copy{
         height: 90px;
@@ -134,10 +133,11 @@
         }
         ul{
             width: 100%;
-            margin-right: 5%;
+            margin: auto;
             li{
                 font-size: 20px;
                 padding: 10px;
+                margin-right: 25px;
                 text-align: center;
             }
         }

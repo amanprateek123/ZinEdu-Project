@@ -3,7 +3,7 @@
 $font: 'Montserrat';
 .enroll_card{
     z-index:1;
-    margin-left:35px;
+    margin-left:33px;
     margin-top:-40px;
     width:85%;
     border:1px solid black;
@@ -39,6 +39,7 @@ $font: 'Montserrat';
 @media only screen and (max-width: 600px){
     .enroll_card{
        z-index: 0;
-       margin: 25px;
+       margin: auto;
+       margin-top: 25px;
     }
 }
