@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ZinEdu-Project/precache-manifest.c3bf76a66fb4435c68d3c77062c53a77.js"
+  "/ZinEdu-Project/precache-manifest.6a20da4811c698818c73e1a534dcb42c.js"
 );
 
 self.addEventListener('message', (event) => {

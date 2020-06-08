@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dc9227e02c6a750e89e587066c6068b",
+    "revision": "fd9d26868cc665a58f7da56c14241099",
     "url": "/ZinEdu-Project/index.html"
   },
   {
-    "revision": "9858370c3c2d752e5109",
+    "revision": "a5a78929a39ab45916fb",
     "url": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "7efda20a1d5a4581247f",
-    "url": "/ZinEdu-Project/static/css/main.aebbd6e6.chunk.css"
+    "revision": "4eaa3e49530f0ed7ef37",
+    "url": "/ZinEdu-Project/static/css/main.fea1fe4b.chunk.css"
   },
   {
-    "revision": "9858370c3c2d752e5109",
-    "url": "/ZinEdu-Project/static/js/2.98470d60.chunk.js"
+    "revision": "a5a78929a39ab45916fb",
+    "url": "/ZinEdu-Project/static/js/2.8ac02f38.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/ZinEdu-Project/static/js/2.98470d60.chunk.js.LICENSE.txt"
+    "url": "/ZinEdu-Project/static/js/2.8ac02f38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7efda20a1d5a4581247f",
-    "url": "/ZinEdu-Project/static/js/main.f45fb65d.chunk.js"
+    "revision": "4eaa3e49530f0ed7ef37",
+    "url": "/ZinEdu-Project/static/js/main.a57509fe.chunk.js"
   },
   {
     "revision": "91bc6492a852745c24d2",
