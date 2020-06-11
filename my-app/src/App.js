@@ -6,11 +6,13 @@ import Navbar from './Components/Home/Navbar/Navbar'
 import Login from './Containers/Login/Login'
 import Modal from './Containers/Modal/Modal'
 import GetStarted from './Components/Home/Trial/GetStarted'
+import Interested from './Components/Home/Interested/Interested'
 
 export default class App extends Component {
   state={
     authModalVisible: false,
-    started:false
+    started:false,
+    interest:false
   }
 
    openModal = () => {
@@ -33,6 +35,16 @@ export default class App extends Component {
       this.setState({...this.state,started: false})    
   
       }
+      openInterest = () => {
+    
+        this.setState({...this.state,interest: true})    
+    
+        }
+      closeInterest = () => {
+        
+        this.setState({...this.state,interest: false})    
+    
+        }
 
   render() {
     return (
@@ -42,11 +54,14 @@ export default class App extends Component {
           <Login modal={this.closeModal}/>
         </Modal>
         <Modal visible={this.state.started} closeModal={this.closeModalStart}>
-          <GetStarted modal={this.closeModalStart} next={this.openDetail}/>
+          <GetStarted modal={this.closeModalStart}/>
+        </Modal>  
+        <Modal visible={this.state.interest} closeModal={this.closeInterest} >
+          <Interested modal={this.closeInterest}  />
         </Modal>        
         <Switch>
         <Route path="/" exact>
-         <Home modal={this.openModalStart}/> 
+         <Home modal={this.openModalStart} open={this.openInterest}/> 
          </Route>
         <Route component={E04}/>
         </Switch>

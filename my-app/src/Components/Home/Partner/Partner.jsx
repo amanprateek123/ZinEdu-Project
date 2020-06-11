@@ -1,7 +1,7 @@
 import React from 'react'
 import './Partner.scss'
 
-export default function Partner() {
+export default function Partner(props) {
     return (
         <div className="partner">
             <div className="part_head">
@@ -15,7 +15,7 @@ export default function Partner() {
                </p>
             </div>
             <div className="interest">
-                <div>
+                <div onClick={props.open} style={{cursor:'pointer'}}>
                     I am Intrested
                 </div>
             </div>

@@ -13,7 +13,7 @@ export default class Home extends Component {
                 <div style={{backgroundColor:"#f3f3f3"}}>
                 <Exclusive modal={this.props.modal}/>
                 <Enroll/>
-                <Partner/>
+                <Partner open={this.props.open}/>
                 <Stats/>
                 <Thumbnail/>
                 <Footer/>
