@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ZinEdu-Project/static/css/main.fea1fe4b.chunk.css",
-    "main.js": "/ZinEdu-Project/static/js/main.618df5a0.chunk.js",
-    "main.js.map": "/ZinEdu-Project/static/js/main.618df5a0.chunk.js.map",
+    "main.css": "/ZinEdu-Project/static/css/main.e6c0496b.chunk.css",
+    "main.js": "/ZinEdu-Project/static/js/main.4dee9c84.chunk.js",
+    "main.js.map": "/ZinEdu-Project/static/js/main.4dee9c84.chunk.js.map",
     "runtime-main.js": "/ZinEdu-Project/static/js/runtime-main.23a8db42.js",
     "runtime-main.js.map": "/ZinEdu-Project/static/js/runtime-main.23a8db42.js.map",
     "static/css/2.829c9cb5.chunk.css": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.8ac02f38.chunk.js": "/ZinEdu-Project/static/js/2.8ac02f38.chunk.js",
-    "static/js/2.8ac02f38.chunk.js.map": "/ZinEdu-Project/static/js/2.8ac02f38.chunk.js.map",
+    "static/js/2.05b601a8.chunk.js": "/ZinEdu-Project/static/js/2.05b601a8.chunk.js",
+    "static/js/2.05b601a8.chunk.js.map": "/ZinEdu-Project/static/js/2.05b601a8.chunk.js.map",
     "index.html": "/ZinEdu-Project/index.html",
-    "precache-manifest.11d3913a585096a56f88e2bd325ad62a.js": "/ZinEdu-Project/precache-manifest.11d3913a585096a56f88e2bd325ad62a.js",
+    "precache-manifest.f988e6e6c2894b6c6fe3449d256f2f02.js": "/ZinEdu-Project/precache-manifest.f988e6e6c2894b6c6fe3449d256f2f02.js",
     "service-worker.js": "/ZinEdu-Project/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.fea1fe4b.chunk.css.map": "/ZinEdu-Project/static/css/main.fea1fe4b.chunk.css.map",
-    "static/js/2.8ac02f38.chunk.js.LICENSE.txt": "/ZinEdu-Project/static/js/2.8ac02f38.chunk.js.LICENSE.txt",
+    "static/css/main.e6c0496b.chunk.css.map": "/ZinEdu-Project/static/css/main.e6c0496b.chunk.css.map",
+    "static/js/2.05b601a8.chunk.js.LICENSE.txt": "/ZinEdu-Project/static/js/2.05b601a8.chunk.js.LICENSE.txt",
     "static/media/enroll.PNG": "/ZinEdu-Project/static/media/enroll.c93023dd.PNG",
     "static/media/Exclusive.scss": "/ZinEdu-Project/static/media/girl.4584a728.jpg",
     "static/media/Partner.scss": "/ZinEdu-Project/static/media/hands.123b083f.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.23a8db42.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.8ac02f38.chunk.js",
-    "static/css/main.fea1fe4b.chunk.css",
-    "static/js/main.618df5a0.chunk.js"
+    "static/js/2.05b601a8.chunk.js",
+    "static/css/main.e6c0496b.chunk.css",
+    "static/js/main.4dee9c84.chunk.js"
   ]
 }
