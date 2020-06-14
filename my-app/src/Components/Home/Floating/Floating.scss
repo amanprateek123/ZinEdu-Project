@@ -4,6 +4,13 @@
     top:180px;
     z-index:3;
 }
+.hello_img{
+    width: 35px;
+    margin-bottom: 10%;
+    img{
+        width: 100%;
+    }
+}
 @media only screen and (max-width: 600px){
     .float{
         position: relative;
