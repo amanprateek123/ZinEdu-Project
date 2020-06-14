@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "652b83966e90ae64172ea26739374cd5",
+    "revision": "a8bd64c0fb8231608146b4a2bfc55e51",
     "url": "/ZinEdu-Project/index.html"
   },
   {
-    "revision": "b3feec3897d83be0f0ef",
+    "revision": "3b11685da7cca5654450",
     "url": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "dde15253b2e34a4afcf7",
-    "url": "/ZinEdu-Project/static/css/main.e6c0496b.chunk.css"
+    "revision": "a3287e39d7a9b89f54c2",
+    "url": "/ZinEdu-Project/static/css/main.1d4c95a9.chunk.css"
   },
   {
-    "revision": "b3feec3897d83be0f0ef",
-    "url": "/ZinEdu-Project/static/js/2.05b601a8.chunk.js"
+    "revision": "3b11685da7cca5654450",
+    "url": "/ZinEdu-Project/static/js/2.8bb7137c.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/ZinEdu-Project/static/js/2.05b601a8.chunk.js.LICENSE.txt"
+    "url": "/ZinEdu-Project/static/js/2.8bb7137c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dde15253b2e34a4afcf7",
-    "url": "/ZinEdu-Project/static/js/main.4dee9c84.chunk.js"
+    "revision": "a3287e39d7a9b89f54c2",
+    "url": "/ZinEdu-Project/static/js/main.b879d07e.chunk.js"
   },
   {
     "revision": "91bc6492a852745c24d2",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ZinEdu-Project/static/media/hands.123b083f.jpg"
   },
   {
+    "revision": "8d74bfab896fcfd50783ff3cb1e6906b",
+    "url": "/ZinEdu-Project/static/media/instagram.8d74bfab.png"
+  },
+  {
     "revision": "b69f245529fd7dd0216651764963316b",
     "url": "/ZinEdu-Project/static/media/logo.b69f2455.png"
   },
@@ -50,5 +54,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2a3a2bbc73387720d8910daaf595a01d",
     "url": "/ZinEdu-Project/static/media/thumb.2a3a2bbc.jpg"
+  },
+  {
+    "revision": "6c82dd2ec99df44af994ee9fa003d885",
+    "url": "/ZinEdu-Project/static/media/twitter.6c82dd2e.png"
+  },
+  {
+    "revision": "5dd17759cc6a89d4a221abdffd850fff",
+    "url": "/ZinEdu-Project/static/media/whatsapp.5dd17759.png"
+  },
+  {
+    "revision": "6cb29efeccfd385214c9b0463a6d4283",
+    "url": "/ZinEdu-Project/static/media/youtube.6cb29efe.png"
   }
 ]);
