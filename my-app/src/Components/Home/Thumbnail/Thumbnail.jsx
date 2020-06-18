@@ -2,6 +2,35 @@ import React, { Component } from 'react'
 import './Thumbnail.scss'
 
 export default class Thumbnail extends Component {
+   state={   
+           title:"Student",
+           body:"Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"           
+       }
+   
+  changeHandle1=()=>{
+       this.setState(
+            {   
+            title:"Teacher",
+            body:"Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"    
+       })
+   }
+   changeHandle2=()=>{
+       this.setState(
+        {
+            title:"Parents",
+            body:"Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+       }
+       )
+   }
+   changeHandle3=()=>{
+    this.setState(
+        {   
+            title:"Student",
+            body:"Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+        }
+    )
+   }
+
     render() {
         return (
             <div>
@@ -11,18 +40,18 @@ export default class Thumbnail extends Component {
                         <div className="frame_bg">
                         </div>
                     </div>
-                        <div className="circle1">
+                        <div className="circle1" onClick={this.changeHandle1} >
                         </div>
-                        <div className="circle2">
+                        <div className="circle2" onClick={this.changeHandle2}>
                         </div>
-                        <div className="circle3">
+                        <div className="circle3" onClick={this.changeHandle3}>
                         </div>
                      <div className="frame_detail">
                          <h1>
-                             Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+                             {this.state.body}
                          </h1>
                          <p>
-                             - LOREM IPSUM
+                             - {this.state.title}
                          </p>
                          </div> 
                 </div>
