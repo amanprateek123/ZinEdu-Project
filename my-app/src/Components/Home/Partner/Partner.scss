@@ -31,8 +31,9 @@ $font: 'Montserrat';
 
     p{
         color: white;
-        font-size: 28px;
+        font-size: 24px;
         font-family: $font;
+        text-align: center;
         line-height: 40px;
     }
 }
@@ -53,15 +54,17 @@ $font: 'Montserrat';
     .partner{
         height: 620px;
         background-position: center;
+        margin-top: 20%;
     }
     .zin_head, .partnerhead{
         font-size: 43px;
         padding-top: 15px;
     }
     .partner_text{
-        margin-top: 40%;
+        margin-top: 50%;
         p{
             font-size: 15px;
+            line-height: 30px;
         }
     }
     .interest{

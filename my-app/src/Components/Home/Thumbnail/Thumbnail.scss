@@ -196,3 +196,12 @@
         left: 163px;
     }
 }
+.transform_circle{
+    animation-name: rotate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes rotate{
+    from {transform: rotateZ(0deg)}
+    to {transform: rotateZ(120deg)}
+}

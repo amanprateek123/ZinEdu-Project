@@ -21,11 +21,11 @@ export default class Floating extends Component {
         if(this.state.visible){
              social = (
                 <div style={{display:'flex',flexDirection:'column',color:'white',position:'relative',right:'-12px',top:'10px',transition:'2s ease-in'}}>
-                <a href="http://www.facebook.com/zinedulive" className="hello_img"><img src={img1} alt="pic"/></a>
-                <a href="#" className="hello_img"><img src={img2} alt="pic"/></a>
-                <a href="http://www.youtube.com/channel/UCT8K86a0UfNDV77-l6cWXSg" className="hello_img"><img src={img3} alt="pic"/></a>
-                <a href="https://wa.link/z8dbiv" className="hello_img"><img src={img4} alt="pic"/></a>
-                <a href="#" className="hello_img"><img src={img5} alt="pic"/></a>
+                <a href="http://www.facebook.com/zinedulive" className="hello_img" target="_blank"><img src={img1} alt="pic" /></a>
+                <a href="#" className="hello_img"><img src={img2} alt="pic" target="_blank" /></a>
+                <a href="http://www.youtube.com/channel/UCT8K86a0UfNDV77-l6cWXSg" className="hello_img" target="_blank"><img src={img3} alt="pic" /></a>
+                <a href="https://wa.link/z8dbiv" className="hello_img" target="_blank"><img src={img4} alt="pic"/></a>
+                <a href="#" className="hello_img" target="_blank"><img src={img5} alt="pic"/></a>
             </div>
             )
         }

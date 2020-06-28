@@ -10,8 +10,8 @@ export default function Partner(props) {
             </div>
             <div className="partner_text">
                <p>
-                  It is a long established fact that a reader will be distracted by readable content of a page when looking at its layout.
-                  It is a long established fact that a reader will be distracted by readable content of a page when looking at its layout.
+               If you are a tutor, teacher or a coaching institution then you will be able to grab once in a lifetime opportunity to earn money by simply
+                pursuing your passion for teaching allowing you to collaborate with us and provide your students “A world class learning experience”.     
                </p>
             </div>
             <div className="interest">

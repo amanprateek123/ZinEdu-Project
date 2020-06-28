@@ -7,6 +7,10 @@ import Login from './Containers/Login/Login'
 import Modal from './Containers/Modal/Modal'
 import GetStarted from './Components/Home/Trial/GetStarted'
 import Interested from './Components/Home/Interested/Interested'
+import Footer from './Components/Home/Footer/Footer'
+import Courses from './Containers/Courses/Courses'
+import Career from './Containers/Career/Career'
+import Blogs from './Containers/Blogs/Blogs'
 
 export default class App extends Component {
   state={
@@ -62,6 +66,15 @@ export default class App extends Component {
         <Switch>
         <Route path="/" exact>
          <Home modal={this.openModalStart} open={this.openInterest}/> 
+         </Route>
+         <Route path="/course">
+         <Courses/> 
+         </Route>
+         <Route path="/blogs">
+         <Blogs/> 
+         </Route>
+         <Route path="/career">
+         <Career/> 
          </Route>
         <Route component={E04}/>
         </Switch>

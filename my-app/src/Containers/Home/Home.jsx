@@ -3,7 +3,6 @@ import Exclusive from '../../Components/Home/Exclusive/Exclusive'
 import Enroll from '../../Components/Home/Enroll/Enroll'
 import Partner from '../../Components/Home/Partner/Partner'
 import Stats from '../../Components/Home/Stats/Stats'
-import Footer from '../../Components/Home/Footer/Footer'
 import Thumbnail from '../../Components/Home/Thumbnail/Thumbnail'
 
 export default class Home extends Component {
@@ -16,7 +15,6 @@ export default class Home extends Component {
                 <Partner open={this.props.open}/>
                 <Stats/>
                 <Thumbnail/>
-                <Footer/>
                 </div>
             </React.Fragment>
         )

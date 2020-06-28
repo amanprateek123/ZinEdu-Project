@@ -10,7 +10,12 @@ $font: 'Montserrat', sans-serif;
 .card_container{
     display: flex;
     flex-direction: row;
+    width: 100%;
 }
+.colus{
+    width: 24%;
+}
+
 @media only screen and (max-width: 600px){
     .enroll{
         display: flex;
@@ -21,5 +26,8 @@ $font: 'Montserrat', sans-serif;
     }
     .card_container{
         flex-direction: column;
+    }
+    .colus{
+        width: 100%;
     }
 }
