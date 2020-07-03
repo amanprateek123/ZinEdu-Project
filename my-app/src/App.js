@@ -7,10 +7,10 @@ import Login from './Containers/Login/Login'
 import Modal from './Containers/Modal/Modal'
 import GetStarted from './Components/Home/Trial/GetStarted'
 import Interested from './Components/Home/Interested/Interested'
-import Footer from './Components/Home/Footer/Footer'
 import Courses from './Containers/Courses/Courses'
 import Career from './Containers/Career/Career'
 import Blogs from './Containers/Blogs/Blogs'
+import Apply from './Containers/Career/Apply/Apply'
 
 export default class App extends Component {
   state={
@@ -72,6 +72,9 @@ export default class App extends Component {
          </Route>
          <Route path="/blogs">
          <Blogs/> 
+         </Route>
+         <Route path="/apply">
+         <Apply/> 
          </Route>
          <Route path="/career">
          <Career/> 

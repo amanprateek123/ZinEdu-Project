@@ -18,7 +18,7 @@ const Nav1 = (props) => {
   return (
     <div>
       <Navbar  light expand="md" className="nav1">
-        <NavbarBrand href="/" className="brand">
+        <NavbarBrand href="/ZinEdu-Project" className="brand">
             <img src={img} alt="pic" className="brand_img"/>
         </NavbarBrand>  
         <NavbarToggler onClick={toggleNavbar} className="mr-2" />

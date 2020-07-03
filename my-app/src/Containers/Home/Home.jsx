@@ -4,6 +4,7 @@ import Enroll from '../../Components/Home/Enroll/Enroll'
 import Partner from '../../Components/Home/Partner/Partner'
 import Stats from '../../Components/Home/Stats/Stats'
 import Thumbnail from '../../Components/Home/Thumbnail/Thumbnail'
+import Footer from '../../Components/Home/Footer/Footer'
 
 export default class Home extends Component {
     render() {
@@ -15,6 +16,7 @@ export default class Home extends Component {
                 <Partner open={this.props.open}/>
                 <Stats/>
                 <Thumbnail/>
+                <Footer/>
                 </div>
             </React.Fragment>
         )
