@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/ZinEdu-Project/static/css/main.73347027.chunk.css",
-    "main.js": "/ZinEdu-Project/static/js/main.1cf77059.chunk.js",
-    "main.js.map": "/ZinEdu-Project/static/js/main.1cf77059.chunk.js.map",
+    "main.css": "/ZinEdu-Project/static/css/main.6536ddac.chunk.css",
+    "main.js": "/ZinEdu-Project/static/js/main.ea482f02.chunk.js",
+    "main.js.map": "/ZinEdu-Project/static/js/main.ea482f02.chunk.js.map",
     "runtime-main.js": "/ZinEdu-Project/static/js/runtime-main.23a8db42.js",
     "runtime-main.js.map": "/ZinEdu-Project/static/js/runtime-main.23a8db42.js.map",
     "static/css/2.829c9cb5.chunk.css": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.358ac620.chunk.js": "/ZinEdu-Project/static/js/2.358ac620.chunk.js",
-    "static/js/2.358ac620.chunk.js.map": "/ZinEdu-Project/static/js/2.358ac620.chunk.js.map",
+    "static/js/2.45826888.chunk.js": "/ZinEdu-Project/static/js/2.45826888.chunk.js",
+    "static/js/2.45826888.chunk.js.map": "/ZinEdu-Project/static/js/2.45826888.chunk.js.map",
     "index.html": "/ZinEdu-Project/index.html",
-    "precache-manifest.e97ce2828ad43b3c6d36f51f69c72720.js": "/ZinEdu-Project/precache-manifest.e97ce2828ad43b3c6d36f51f69c72720.js",
+    "precache-manifest.627e3180578dfb6cf91eefe491a30085.js": "/ZinEdu-Project/precache-manifest.627e3180578dfb6cf91eefe491a30085.js",
     "service-worker.js": "/ZinEdu-Project/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.73347027.chunk.css.map": "/ZinEdu-Project/static/css/main.73347027.chunk.css.map",
-    "static/js/2.358ac620.chunk.js.LICENSE.txt": "/ZinEdu-Project/static/js/2.358ac620.chunk.js.LICENSE.txt",
+    "static/css/main.6536ddac.chunk.css.map": "/ZinEdu-Project/static/css/main.6536ddac.chunk.css.map",
+    "static/js/2.45826888.chunk.js.LICENSE.txt": "/ZinEdu-Project/static/js/2.45826888.chunk.js.LICENSE.txt",
     "static/media/Blog.jpg": "/ZinEdu-Project/static/media/Blog.8d1ab467.jpg",
+    "static/media/Apply.scss": "/ZinEdu-Project/static/media/apply.c4f70005.jpg",
     "static/media/chemistry.png": "/ZinEdu-Project/static/media/chemistry.72ca8d89.png",
     "static/media/course.jpg": "/ZinEdu-Project/static/media/course.5fbf2fde.jpg",
     "static/media/ebook.png": "/ZinEdu-Project/static/media/ebook.10ef70b1.png",
@@ -36,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.23a8db42.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.358ac620.chunk.js",
-    "static/css/main.73347027.chunk.css",
-    "static/js/main.1cf77059.chunk.js"
+    "static/js/2.45826888.chunk.js",
+    "static/css/main.6536ddac.chunk.css",
+    "static/js/main.ea482f02.chunk.js"
   ]
 }

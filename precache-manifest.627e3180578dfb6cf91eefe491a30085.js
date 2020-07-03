@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4161f06feb55fee040abcb8e779699f3",
+    "revision": "40e6adc2dd53b1b5528aed8e8efb6289",
     "url": "/ZinEdu-Project/index.html"
   },
   {
-    "revision": "e2b37692664752c70026",
+    "revision": "c5f3ae68a391cb520924",
     "url": "/ZinEdu-Project/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "8d0276054d3c1babe3c8",
-    "url": "/ZinEdu-Project/static/css/main.73347027.chunk.css"
+    "revision": "d49a96ed2cead430c70c",
+    "url": "/ZinEdu-Project/static/css/main.6536ddac.chunk.css"
   },
   {
-    "revision": "e2b37692664752c70026",
-    "url": "/ZinEdu-Project/static/js/2.358ac620.chunk.js"
+    "revision": "c5f3ae68a391cb520924",
+    "url": "/ZinEdu-Project/static/js/2.45826888.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/ZinEdu-Project/static/js/2.358ac620.chunk.js.LICENSE.txt"
+    "url": "/ZinEdu-Project/static/js/2.45826888.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d0276054d3c1babe3c8",
-    "url": "/ZinEdu-Project/static/js/main.1cf77059.chunk.js"
+    "revision": "d49a96ed2cead430c70c",
+    "url": "/ZinEdu-Project/static/js/main.ea482f02.chunk.js"
   },
   {
     "revision": "91bc6492a852745c24d2",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8d1ab467abaf346e18428d522fff6395",
     "url": "/ZinEdu-Project/static/media/Blog.8d1ab467.jpg"
+  },
+  {
+    "revision": "c4f700050f7f705cf964ea541ae998e1",
+    "url": "/ZinEdu-Project/static/media/apply.c4f70005.jpg"
   },
   {
     "revision": "72ca8d8927f4d2bd2d1328720640fbe7",
