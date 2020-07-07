@@ -11,6 +11,7 @@ import Courses from './Containers/Courses/Courses'
 import Career from './Containers/Career/Career'
 import Blogs from './Containers/Blogs/Blogs'
 import Apply from './Containers/Career/Apply/Apply'
+import Team from './Containers/Team/Team'
 
 export default class App extends Component {
   state={
@@ -78,6 +79,9 @@ export default class App extends Component {
          </Route>
          <Route path="/career">
          <Career/> 
+         </Route>
+         <Route path="/team">
+         <Team/> 
          </Route>
         <Route component={E04}/>
         </Switch>

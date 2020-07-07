@@ -34,27 +34,6 @@ export default function Blogs() {
 
             </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             <div className="pagination mt-4" className="page">
 
                             <Pagination
